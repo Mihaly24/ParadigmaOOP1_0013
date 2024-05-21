@@ -22,5 +22,7 @@ public:
 
 int main()
 {
-    
+    mahasiswa mhs(12, "Fairuz", 90.5);
+
+    return 0;
 }
