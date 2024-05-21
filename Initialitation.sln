@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aggregation", "Aggregation\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Association", "Association\Association.vcxproj", "{D67457CB-B660-4C42-B06A-8438517DC66A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance", "Inheritance\Inheritance.vcxproj", "{4BC6E856-CDFB-432B-A170-4B00A575745F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{D67457CB-B660-4C42-B06A-8438517DC66A}.Release|x64.Build.0 = Release|x64
 		{D67457CB-B660-4C42-B06A-8438517DC66A}.Release|x86.ActiveCfg = Release|Win32
 		{D67457CB-B660-4C42-B06A-8438517DC66A}.Release|x86.Build.0 = Release|Win32
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Debug|x64.ActiveCfg = Debug|x64
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Debug|x64.Build.0 = Debug|x64
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Debug|x86.Build.0 = Debug|Win32
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Release|x64.ActiveCfg = Release|x64
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Release|x64.Build.0 = Release|x64
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Release|x86.ActiveCfg = Release|Win32
+		{4BC6E856-CDFB-432B-A170-4B00A575745F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
